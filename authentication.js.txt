@@ -1,3 +1,0 @@
-fnuction login(username,password){
-
-}
